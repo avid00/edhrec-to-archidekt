@@ -1,7 +1,7 @@
 
 # EDHREC to Archidekt Python script
 
-Convert any EDHREC deck JSON into a **clean card list for importing into Archidekt (or really any other deck-building platform you want).
+Convert any EDHREC deck JSON into a clean card list for importing into Archidekt (or really any other deck-building platform you want).
 
 ---
 
